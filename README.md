@@ -6,18 +6,9 @@ I'm particularly interested in applying these tools to identify mutations associ
 I am proficient in Python and R, and I have experience with a variety of bioinformatics software packages. 
 I am also interested in developing new computational methods for analyzing viral data.
 
-Research Interests:
-Viral evolution
-Viral epidemiology
-Bioinformatics
-Computational biology
+Research Interests: Viral evolution, Viral epidemiology, Bioinformatics, Computational biology
 
-Skills:
-
-Programming (Python, R)
-Bioinformatics
-Data analysis
-Scientific writing
+Skills: Programming (Python, R), Bioinformatics, Data analysis, Scientific writing
 
 
 
