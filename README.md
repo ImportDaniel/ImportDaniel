@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi, my name is Daniel and I am a biologist specializing in bioinformatics.
 
-<!--
-**ImportDaniel/ImportDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my research, I apply computational and bioinformatics tools to analyze large datasets of biological data.
+I'm particularly interested in applying these tools to identify mutations associated with resistance against antiviral drugs, alongside tracking viral spread and potential changes in virulence or transmissibility.
 
-Here are some ideas to get you started:
+I am proficient in Python and R, and I have experience with a variety of bioinformatics software packages. 
+I am also interested in developing new computational methods for analyzing viral data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Interests:
+Viral evolution
+Viral epidemiology
+Bioinformatics
+Computational biology
+
+Skills:
+
+Programming (Python, R)
+Bioinformatics
+Data analysis
+Scientific writing
+
+
+
+
+
